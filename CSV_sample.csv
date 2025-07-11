@@ -1,0 +1,4 @@
+"CONTACT ID","EMAIL","FIRSTNAME","LASTNAME","SMS","LANDLINE_NUMBER","WHATSAPP","INTERESTS"
+"123456","emma@example.com","Emma","Dubois","33612345678","33612345678","33612345678","['music'|'sports']"
+"789123","mickael@example.com","Mickael","Parker","15555551234","15555551234","15555551234","['sports']"
+"456789","ethan@example.com","Jakob","Müller","4930901820","4930901820","4930901820","[]"
