@@ -1,0 +1,21 @@
+﻿CONTACT ID,FIRSTNAME,LASTNAME,EMAIL,LANDLINE_NUMBER,WHATSAPP,SMS,CATEGORY,BOOLEAN,DATE,NUMBER,TEXT,MULTI-CHOICE,USER
+1035,A21,B,a0001@brevo.co21,917770010021,917770010021,917770010021,ONE,YES,06/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1036,A22,B,a0001@brevo.co22,917770010022,917770010022,917770010022,ONE,YES,07/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1037,A23,B,a0001@brevo.co23,917770010023,917770010023,917770010023,ONE,YES,08/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1038,A24,B,a0001@brevo.co24,917770010024,917770010024,917770010024,ONE,YES,09/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1039,A25,B,a0001@brevo.co25,917770010025,917770010025,917770010025,ONE,YES,10/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1040,A26,B,a0001@brevo.co26,917770010026,917770010026,917770010026,ONE,YES,11/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1041,A27,B,a0001@brevo.co27,917770010027,917770010027,917770010027,ONE,YES,12/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1042,A28,B,a0001@brevo.co28,917770010028,917770010028,917770010028,ONE,YES,13/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1043,A29,B,a0001@brevo.co29,917770010029,917770010029,917770010029,ONE,YES,14/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1044,A30,B,a0001@brevo.co30,917770010030,917770010030,917770010030,ONE,YES,15/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1045,A31,B,a0001@brevo.co31,917770010031,917770010031,917770010031,ONE,YES,16/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1046,A32,B,a0001@brevo.co32,917770010032,917770010032,917770010032,ONE,YES,17/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1047,A33,B,a0001@brevo.co33,917770010033,917770010033,917770010033,ONE,YES,18/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1048,A34,B,a0001@brevo.co34,917770010034,917770010034,917770010034,ONE,YES,19/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1049,A35,B,a0001@brevo.co35,917770010035,917770010035,917770010035,ONE,YES,20/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1050,A36,B,a0001@brevo.co36,917770010036,917770010036,917770010036,ONE,YES,21/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1051,A37,B,a0001@brevo.co37,917770010037,917770010037,917770010037,ONE,YES,22/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1052,A38,B,a0001@brevo.co38,917770010038,917770010038,917770010038,ONE,YES,23/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1053,A39,B,a0001@brevo.co39,917770010039,917770010039,917770010039,ONE,YES,24/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
+1054,A40,B,a0001@brevo.co40,917770010040,917770010040,917770010040,ONE,YES,25/10/23,234454,abc,['India'|'China'],shikhar.singh+import_test_1@brevo.com
